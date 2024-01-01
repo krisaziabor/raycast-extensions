@@ -1,16 +1,16 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "hello-world",
-  "title": "hello world!",
+  "name": "hello-world-try-2",
+  "title": "Hello, World Try 2",
   "description": "",
   "icon": "command-icon.png",
   "author": "krisaziabor",
   "license": "MIT",
   "commands": [
     {
-      "name": "hello-world",
-      "title": "hello world",
-      "description": "",
+      "name": "index",
+      "title": "Show Detail",
+      "description": "Template with a plain detail view",
       "mode": "view"
     }
   ],
